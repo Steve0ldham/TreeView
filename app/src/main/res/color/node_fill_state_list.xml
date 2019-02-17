@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:color="#408040" android:state_pressed="true" android:state_first="true" android:state_selected="true" />
+    <item android:color="#004000" android:state_first="true" android:state_pressed="true" />
+    <item android:color="#40FF40" android:state_first="true" android:state_selected="true" />
+    <item android:color="#008000" android:state_first="true" />
+    <item android:color="#802020" android:state_last="true" android:state_selected="true" android:state_pressed="true" />
+    <item android:color="#600000" android:state_last="true" android:state_pressed="true" />
+    <item android:color="#FF8080" android:state_last="true" android:state_selected="true" />
+    <item android:color="#FF2020" android:state_last="true" />
+    <item android:color="#408888" android:state_selected="true" android:state_pressed="true" />
+    <item android:color="#80FFFF" android:state_selected="true" />
+    <item android:state_pressed="true" android:color="#AAAA20" />
+    <item android:color="#FFFF40" />
+</selector>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="TreeView">
+        <attr name="nodeFrameColour" format="color"/>
+        <attr name="nodeFillColour" format="color" />
+        <attr name="nodeFrameWidth" format="dimension" />
+        <attr name="nodeConnectorColour" format="color" />
+        <attr name="nodeConnectorWidth" format="dimension" />
+        <attr name="minNodeSize" format="dimension" />
+    </declare-styleable>
+</resources>
